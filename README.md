@@ -8,7 +8,7 @@ To get started, simply clone this repository to your local machine:
 bash
 Copy code
 
-git clone [link to your repository]
+git clone [https://github.com/Vadik-07/Numpy--np-/tree/main]
 
 Prerequisites
 
